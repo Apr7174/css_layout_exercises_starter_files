@@ -1,0 +1,41 @@
+.container-one, .container-two {
+	width: 800px;
+	margin:auto;
+	font-size: 0;
+	background-color: red;
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.green-box{
+	background-color: green;
+	height: 200px;
+	width:50%;
+}
+
+.blue-box {
+	background-color: blue;
+	height: 200px;
+	width: 50%;
+}
+
+.gray-box {
+	background-color: gray;
+	height: 300px;
+	width:33.3%;
+}
+
+.black-box {
+	background-color: black;
+	height: 300px;
+	width: 33.3%;
+}
+
+.yellow-box {
+	background-color: yellow;
+	height: 300px;
+	width: 33.3%;
+}
